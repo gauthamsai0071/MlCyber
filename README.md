@@ -1,6 +1,8 @@
 # EL-GY-9163: Machine Learning for Cyber-security
 **Net Id**: sn3533 <br>
 **Name**: Sai Goutham Nelanuthula
+## Lab 3 Report
+
 # Overview
 You must do the project individually. In this HW you will design a backdoor detector for 
 BadNets trained on the YouTube Face dataset using the pruning defense discussed in 
