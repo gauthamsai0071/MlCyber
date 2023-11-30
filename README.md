@@ -1,3 +1,3 @@
-# ECE-GY 9133 | Machine Learning for Cybersecurity
+# EL-GY-9163: Machine Learning for Cyber-security
 Net Id: sn3533
 Name: Sai Goutham Nelanuthula
