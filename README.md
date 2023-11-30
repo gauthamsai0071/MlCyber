@@ -45,12 +45,15 @@ Instruction to run the code :
   - All the required data and models are situated in the data directory, make sure your correctly place them in your file directory, and adjust the paths accordingly.
 
 
-The below figure depicts the the accuracy of drop models<br>
-![image](https://github.com/gauthamsai0071/MlCyber/assets/64630509/8020aa1f-4790-454f-bcb6-c5ba8ecb141f)
+The below figure depicts the accuracy of combined drop models<br>
 
-The below figure depicts the attact rate for drop models<br>
+![image](https://github.com/gauthamsai0071/MlCyber/assets/64630509/6e52c475-bd28-4773-98e3-0dabd224ded4)
 
-![image](https://github.com/gauthamsai0071/MlCyber/assets/64630509/aa9ba53b-980c-42c6-bdb0-33d24c221e04)
+
+The below figure depicts the attack rate for combined drop models<br>
+
+![image](https://github.com/gauthamsai0071/MlCyber/assets/64630509/194f1d8c-fc54-49f4-8489-16715e646b7e)
+
 
 
 
