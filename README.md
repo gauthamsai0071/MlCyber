@@ -1,8 +1,8 @@
 # EL-GY-9163: Machine Learning for Cyber-security
 # Lab 3 Report
 **Net ID**: sn3533 <br>
-**Name**: Sai Goutham Nelanuthula
-
+**Name**: Sai Goutham Nelanuthula <br>
+**GitHub Repo**: <a href="https://github.com/gauthamsai0071/MlCyber">link here</a>
 
 # Overview
 You must do the project individually. In this HW, you will design a backdoor detector for 
